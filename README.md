@@ -1,2 +1,2 @@
 # Actividad-git
-Hola, mi primer taller usando git desde la web
+Editando desde la rama de desarrollo
